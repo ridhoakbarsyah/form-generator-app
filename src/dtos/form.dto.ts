@@ -54,7 +54,6 @@ const formData = [
   },
 ];
 
-// Membuat instance dari FormDTO
 const formDTO = new FormDTO(formData);
 
 console.log(formDTO);
